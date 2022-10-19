@@ -1,2 +1,2 @@
 # FuzzBuzz 
-## developped following TDD: Test Driven Developpement
+developped following TDD approach : Test Driven Developpement
